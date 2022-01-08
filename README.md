@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fiftytzent!
+- 👀 I’m interested in chess, basketball and american football.
+- 🌱 I’m currently learning how to improve at chess and how to create and deploy web applications.
+- 📫 How to reach me: @fiftytzent in almost every platform!
